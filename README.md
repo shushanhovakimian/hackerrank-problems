@@ -9,3 +9,4 @@
 * [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)
 * [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)
 * [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
+* [Contest Ledearboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
