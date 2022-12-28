@@ -10,3 +10,4 @@
 * [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)
 * [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
 * [Contest Ledearboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
+* [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
